@@ -23,6 +23,6 @@ setup(
         'License :: OSI Approved :: MIT License',
     ],
     keywords='ampr amateur packet radio api',
-    py_modules=['ampr.py'],
+    py_modules=['ampr'],
     install_requires=['requests'],
 )
